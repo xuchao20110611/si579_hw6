@@ -41,6 +41,7 @@ function App() {
   return (
     <main className="container">
     <h1 className="row">Rhyme Finder (579 Problem Set 6)</h1>
+    <p>Source code: https://github.com/xuchao20110611/si579_hw6/tree/master </p>
     <div className="row">
         <SavedList SavedWords={SavedWords}/>
     </div>
